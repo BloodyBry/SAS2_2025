@@ -10,7 +10,7 @@ int main()
 {
     float K, C;
 
-    printf("Entrer la températur en Celsius: ");
+    printf("Entrer la temperature en Celsius: ");
     scanf("%f", &C);
 
     K = C + 273.15;
