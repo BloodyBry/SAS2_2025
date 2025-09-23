@@ -26,5 +26,4 @@ int main()
         printf("le triple est: %.2f", (a + b) * 3);
 
     return 0;
-
 }
