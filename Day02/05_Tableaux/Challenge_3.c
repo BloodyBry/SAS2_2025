@@ -31,5 +31,4 @@ int main()
     printf("la somme des elements est: %d\n", somme);
 
     return 0;
-
 }
